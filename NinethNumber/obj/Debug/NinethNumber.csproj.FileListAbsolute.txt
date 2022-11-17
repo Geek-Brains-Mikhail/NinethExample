@@ -1,0 +1,8 @@
+D:\C# ULearn\Block First acquaintance with C#\ThirdProgram\NinethNumber\NinethNumber\bin\Debug\NinethNumber.exe.config
+D:\C# ULearn\Block First acquaintance with C#\ThirdProgram\NinethNumber\NinethNumber\bin\Debug\NinethNumber.exe
+D:\C# ULearn\Block First acquaintance with C#\ThirdProgram\NinethNumber\NinethNumber\bin\Debug\NinethNumber.pdb
+D:\C# ULearn\Block First acquaintance with C#\ThirdProgram\NinethNumber\NinethNumber\obj\Debug\NinethNumber.csproj.AssemblyReference.cache
+D:\C# ULearn\Block First acquaintance with C#\ThirdProgram\NinethNumber\NinethNumber\obj\Debug\NinethNumber.csproj.SuggestedBindingRedirects.cache
+D:\C# ULearn\Block First acquaintance with C#\ThirdProgram\NinethNumber\NinethNumber\obj\Debug\NinethNumber.csproj.CoreCompileInputs.cache
+D:\C# ULearn\Block First acquaintance with C#\ThirdProgram\NinethNumber\NinethNumber\obj\Debug\NinethNumber.exe
+D:\C# ULearn\Block First acquaintance with C#\ThirdProgram\NinethNumber\NinethNumber\obj\Debug\NinethNumber.pdb
